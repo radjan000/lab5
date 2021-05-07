@@ -1,9 +1,5 @@
 #plik wyłączający śledzenie zmian
 
-<<<<<<< HEAD:.idea/.gitignore
-../.idea/
-../out/
-=======
 .idea/
 out/
->>>>>>> 6064277ce492c319197015cf94f4dd176016c331:src/.gitignore
+
