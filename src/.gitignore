@@ -1,4 +1,4 @@
 #plik wyłączający śledzenie zmian
 
-.idea/
+../.idea/
 out/
